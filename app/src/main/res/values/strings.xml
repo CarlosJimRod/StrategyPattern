@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StrategyPattern</string>
+    <string name="fragment_list_title">Fragmento Listado</string>
+</resources>
